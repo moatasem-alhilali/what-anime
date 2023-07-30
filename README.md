@@ -25,6 +25,13 @@ flutter_bloc_boilerplate/
 - `sqflite`: <a target="_blank" href="https://pub.dev/packages/sqflite">https://pub.dev/packages/sqflite</a>
 - `dio`: <a target="_blank" href="https://pub.dev/packages/dio">https://pub.dev/packages/dio</a>
 - `lottie`: <a target="_blank" href="https://pub.dev/packages/lottie">https://pub.dev/packages/lottie</a>
+- `lottie`: <a target="_blank" href="https://pub.dev/packages/flutter_localization">https://pub.dev/packages/flutter_localization</a>
+- `lottie`: <a target="_blank" href="https://pub.dev/packages/google_mobile_ads">https://pub.dev/packages/google_mobile_ads</a>
+- `lottie`: <a target="_blank" href="https://pub.dev/packages/url_launcher">https://pub.dev/packages/url_launcher</a>
+- `lottie`: <a target="_blank" href="https://pub.dev/packages/image_picker">https://pub.dev/packages/image_picker</a>
+- `lottie`: <a target="_blank" href="https://pub.dev/packages/shimmer">https://pub.dev/packages/shimmer</a>
+- `lottie`: <a target="_blank" href="https://pub.dev/packages/flutter_animate">https://pub.dev/packages/flutter_animate</a>
+
 
 ## Getting Started
 This application is using api of <a target="_blank" href="https://api.trace.moe">trace.moe</a>,
