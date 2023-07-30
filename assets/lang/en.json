@@ -1,0 +1,20 @@
+{
+  "welcome": "Hello",
+  "RecentlySearch": "Recently Search",
+  "uploadImage": "upload image",
+  "pickYourAnimeImageFromGallery": "pick Your Anime Image From Gallery",
+  "youDidntSelectAnyImage": "you didn't Select Any Image",
+  "copy": "copy title",
+  "NoImageSearch": "No Image Search",
+  "result": "result search",
+  "error": "Obs! something went wrong",
+  "similarity": "similarity",
+  "episode": "episode",
+  "start": "start",
+  "end": "end",
+  "lan": "EN",
+  "enterYourname": "Enter Your Name",
+  "moatasem": "moatasem...",
+  "save": "save",
+  "messageValidate":"You Must Enter Your Name"
+}

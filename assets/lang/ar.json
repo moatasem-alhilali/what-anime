@@ -1,0 +1,20 @@
+{
+  "welcome": " مرحبا ",
+  "RecentlySearch": "عمليات البحث الأخيرة",
+  "uploadImage": "رفع الصورة",
+  "pickYourAnimeImageFromGallery": "اختر صورة الأنمي المراد البحث عنه من معرض الصور",
+  "youDidntSelectAnyImage": "لم تقم بختيار أي صورة بعد",
+  "copy": "نسخ الإسم",
+  "NoImageSearch": "لم تقم بالبحث عن أي أنمي ",
+  "result": "نتائج البحث",
+  "error": "حدث خطأ ما",
+  "similarity": "نسبة التشابه",
+  "episode": "رقم الحلقة",
+  "start": "البدء",
+  "end": "الإنتهاء",
+  "lan": "AR",
+  "enterYourname": "أدخل اسمك",
+  "moatasem": "معتصم...",
+  "save": "حفظ",
+  "messageValidate":"يجب أن تدخل اسمك"
+}

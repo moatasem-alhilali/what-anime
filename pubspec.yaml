@@ -1,0 +1,124 @@
+name: anime_finder
+description: A new Flutter project.
+publish_to: "none"
+
+version: 1.0.2+2
+
+environment:
+  sdk: ">=2.19.4 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.0.1
+  lottie: ^2.3.2
+  flutter_animate:
+  shimmer: ^2.0.0
+  dio:
+  image_picker: ^0.8.8
+  sqflite:
+  url_launcher: ^6.1.11
+  google_mobile_ads: ^3.0.0
+  shared_preferences:
+  flutter_localizations:
+    sdk: flutter
+  rename: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/
+    - assets/lottie/
+    - assets/logo/
+    - assets/lang/
+
+  fonts:
+    - family: light_1
+      fonts:
+        - asset: assets/fonts/ar/light_1.ttf
+
+    - family: light_2
+      fonts:
+        - asset: assets/fonts/ar/light_2.otf
+
+    - family: light_3
+      fonts:
+        - asset: assets/fonts/ar/light_3.ttf
+
+    - family: light_4
+      fonts:
+        - asset: assets/fonts/ar/light_4.ttf
+
+    - family: light_5
+      fonts:
+        - asset: assets/fonts/ar/light_5.ttf
+
+    - family: medium_1
+      fonts:
+        - asset: assets/fonts/ar/medium_1.otf
+
+    - family: medium_2
+      fonts:
+        - asset: assets/fonts/ar/medium_2.otf
+
+    - family: medium_3
+      fonts:
+        - asset: assets/fonts/ar/medium_3.otf
+
+    - family: bold_1
+      fonts:
+        - asset: assets/fonts/ar/bold_1.otf
+
+    - family: bold_2
+      fonts:
+        - asset: assets/fonts/ar/bold_2.ttf
+
+    - family: bold_3
+      fonts:
+        - asset: assets/fonts/ar/bold_3.otf
+
+    #  english font
+
+    - family: Poppins-Thin
+      fonts:
+        - asset: assets/fonts/en/Poppins-Thin.ttf
+
+    - family: Poppins-Light
+      fonts:
+        - asset: assets/fonts/en/Poppins-Light.ttf
+
+    - family: Poppins-ExtraLight
+      fonts:
+        - asset: assets/fonts/en/Poppins-ExtraLight.ttf
+
+    - family: Poppins-Regular
+      fonts:
+        - asset: assets/fonts/en/Poppins-Regular.ttf
+
+    - family: Poppins-Medium
+      fonts:
+        - asset: assets/fonts/en/Poppins-Medium.ttf
+
+    - family: Poppins-SemiBold
+      fonts:
+        - asset: assets/fonts/en/Poppins-SemiBold.ttf
+
+    - family: Poppins-Bold
+      fonts:
+        - asset: assets/fonts/en/Poppins-Bold.ttf
+
+    - family: Poppins-ExtraBold
+      fonts:
+        - asset: assets/fonts/en/Poppins-ExtraBold.ttf
+
+    - family: Poppins-Black
+      fonts:
+        - asset: assets/fonts/en/Poppins-Black.ttf
+
+  uses-material-design: true
